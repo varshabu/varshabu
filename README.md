@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Varsha Umesh is a front-end developer with a Bachelor's degree in Computer Engineering and 2+ years of software development experience. She is experienced in front-end technologies such as HTML5, CSS3, and JavaScript. Varsha has also developed and maintained various JavaScript applications and has exceptional knowledge of React.
+I'm a front-end developer with a Bachelor's degree in Computer Engineering from PES Institute of Technology, Bangalore and 2+ years of software development experience. I'm experienced in front-end technologies such as HTML5, CSS3, JavaScript and Typescript. I have also developed and maintained various JavaScript applications and has exceptional knowledge of React. Currently exploring NextJS.
 
 <!--
 **varshabu/varshabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
